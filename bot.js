@@ -1,4 +1,4 @@
-const token = process.env.arcadia
+const token = process.env.arcadia;
 const Discord = require("discord.js"); //baixar a lib
 const client = new Discord.Client(); 
 const config = require("./config.json"); 
