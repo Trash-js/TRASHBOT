@@ -1,0 +1,17 @@
+{
+ "nome": "TRASHBOT",
+ "version": "1.0.0",
+ "description": "",
+ "main": "bot.js",
+ "scripts": {
+  "start": "node .",
+  "test": "echo \"Error no test specified\" && exit 1"
+ },
+ "keywords": [],
+ "author": "",
+ "License": "ISC",
+ "dependencies": {
+  "discord.js": "^11.5.1",
+  "jimp": "^0.9.3"
+ }
+}
